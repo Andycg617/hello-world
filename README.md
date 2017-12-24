@@ -1,2 +1,2 @@
 # hello-world
-the frist of repository
+the first of repository
