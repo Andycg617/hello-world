@@ -1,5 +1,7 @@
 # hello-world
 the first of repository
 
-String str="Hello World!";
-System.out.println(str);
+public static void main(String[] args){
+  String str="Hello World!";
+  System.out.println(str);
+}
